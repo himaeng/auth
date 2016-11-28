@@ -1,0 +1,4 @@
+// auth/.eslintrc
+{
+  "extends": "rallycoding"
+}
